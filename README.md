@@ -32,8 +32,6 @@ I build software, explore security, and enjoy gaming in my free time. Welcome to
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kivy](https://img.shields.io/badge/-Kivy-5961F9?style=for-the-badge)
 ![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=for-the-badge)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-CC0000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-6E4C9B?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-ED4C5C?style=for-the-badge)
