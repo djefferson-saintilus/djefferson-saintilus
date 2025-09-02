@@ -1,5 +1,9 @@
-# Hi there 👋, I'm Djefferson
-**Programmer | Gamer | Pentester**  
+# Hi there 👋, I'm Djefferson 
+**Programmer | Gamer | Pentester** 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=djefferson-saintilus&label=Profile+views&color=0e75b6&style=flat" alt="djefferson" />
+</p>
+
 
 I build software, explore security, and enjoy gaming in my free time. Welcome to my GitHub profile!
 
