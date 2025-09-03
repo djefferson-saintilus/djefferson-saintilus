@@ -11,6 +11,9 @@ I build software, explore security, and enjoy gaming in my free time. Welcome to
 
 ## 📊 GitHub Stats
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djefferson-saintilus&theme=darkhub" alt="djefferson" /></a> </p>
+
+
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=djefferson-saintilus&theme=dark&include_all_commits=true&count_private=true" />
